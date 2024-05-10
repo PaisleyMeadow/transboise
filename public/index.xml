@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boise Trans Collective</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Boise Trans Collective</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>When Ezra Howell was 17, they began running benefit shows to raise money for their gender-affirming care. Having completed their medical transition, they founded the Boise Trans Collective to give back to the local trans and music community. Our Mission: To create a safe space within Boise for the local trans and queer community through music, art, and personal expression. Right now, our community needs all the love and support possible, and we are here to help.</description>
+    </item>
+    <item>
+      <title>Calendar</title>
+      <link>http://localhost:1313/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/calendar/</guid>
+      <description>Upcoming Events </description>
+    </item>
+    <item>
+      <title>Donate</title>
+      <link>http://localhost:1313/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/donate/</guid>
+      <description>All donations directly support the Collective and the community. Here are a few ways we&amp;rsquo;ll use your donation: Given directly to community members in need who reach out for help with rent, accessing medical care, and other necessities. Buying supplies for events, such as crafting materials and music equipment. Stocking gender-affirming supplies to give out such as chest tape, binders, make-up, bras, and injection supplies. Paying band, venue, and event space fees.</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/</guid>
+      <description>Healthcare Options to access gender-affirming care and other medical services from trans-friendly providers. Therapists and Psychologists Housing Get help with paying rent, avoiding eviction, or finding a new living situation. General Needs Trans-friendly businesses and creators. As always, please never hesitate to reach out to the Collective with any needs or questions. </description>
+    </item>
+  </channel>
+</rss>
