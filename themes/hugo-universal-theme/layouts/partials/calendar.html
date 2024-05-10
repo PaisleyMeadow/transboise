@@ -1,0 +1,38 @@
+<div class="container" id="calendar">
+
+    <div class="row">
+        <div class="col-md-8">
+
+            <section>
+
+                {{ .Content }}
+                <br>
+                <div id="contact-message"></div>
+
+                <iframe src="https://calendar.google.com/calendar/embed?src=boisetranscollective%40gmail.com&ctz=America%2FBoise" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+                <br>
+                <br>
+               <p>Our events are volunteer-driven, so our calendar may not always be up-to-date. <br> If something seems off, check our Instagram or reach out to us directly.</p>
+            </section>
+
+        </div>
+
+        <div class="col-md-4">
+
+            {{ if isset .Site.Params "address" }}
+            <section>
+
+              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+
+                {{ .Site.Params.address | safeHTML }}
+
+            </section>
+
+            {{ end }}
+
+        </div>
+
+    </div>
+    <!-- /.row -->
+</div>
+
