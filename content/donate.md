@@ -9,5 +9,6 @@ title = "Donate"
 * ##### Stocking gender-affirming supplies to give out such as chest tape, binders, make-up, bras, and injection supplies.
 * ##### Paying band, venue, and event space fees.
 
-### Please consider donating via [Venmo](https://account.venmo.com/u/transboise) or [Kofi](). 
+### Please consider donating via [Venmo](https://account.venmo.com/u/transboise). 
+### Kofi coming soon! 
 ---

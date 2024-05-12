@@ -50,13 +50,11 @@ Thanks for thinking of us!
 Send us a message on [Instagram](https://www.instagram.com/transboise/) or email us at [boisetranscollective@gmail.com](mailto:boisetranscollective@gmail.com).
 
 
-### 4. When is the Collective's next event?
+### 5. When is the Collective's next event?
 
 Check out our events calendar or [Instagram](https://www.instagram.com/transboise/) to see what we have coming up next.
 
----
+### 6. Who runs the Boise Trans Collective?
 
-Boise Trans Collective is run by a wonderful team of community members, and supported by many other volunteers and individuals. 
-
-Here's a little bit about some of the main team:
+Boise Trans Collective is run by a wonderful team consisting of Ezra Howell and Peyton Shollenbarger, and is supported by many other volunteers and community members. 
 
