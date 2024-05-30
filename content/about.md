@@ -1,6 +1,8 @@
 +++
 title = "About"
 id = "contact"
+description = "About the Boise Trans Collective"
+keywords = ["FAQ", "about", "info", "mission", "questions", "staff"]
 +++
 
 ## When Ezra Howell was 17, they began running benefit shows to raise money for their gender-affirming care. 

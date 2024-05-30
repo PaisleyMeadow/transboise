@@ -1,5 +1,7 @@
 +++
 title = "Resources"
+description = "Trans-friendly resources in the Treasure Valley area."
+keywords = ["resources", "hrt", "hormones", "doctors", "therapists", "dentists", "art", "housing", "rent", "support", "help", "need help", "surgery", "gender affirming care", "access gender affirming care", "trans healthcare", "trans healthcare in idaho", "reproductive healthcare", "general needs"]
 +++
 
 # Healthcare

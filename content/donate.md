@@ -1,5 +1,7 @@
 +++
 title = "Donate"
+description = "Donate to help our cause."
+keywords = ["donate", "help", "venmo", "support", "support us", "how to support", "give"]
 +++
 
 ## All donations directly support the Collective and the community.  
@@ -9,6 +11,6 @@ title = "Donate"
 * ##### Stocking gender-affirming supplies to give out such as chest tape, binders, make-up, bras, and injection supplies.
 * ##### Paying band, venue, and event space fees.
 
-### Please consider donating via [Venmo](https://account.venmo.com/u/transboise). 
+### Please consider donating via [Venmo](https://venmo.com/u/transboise). 
 ### Kofi coming soon! 
 ---
