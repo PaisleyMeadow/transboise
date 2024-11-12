@@ -10,8 +10,9 @@ keywords = ["resources", "hrt", "hormones", "doctors", "therapists", "dentists",
 ### [Psychiatrists](https://docs.google.com/document/d/e/2PACX-1vRannsdAydms-DbeEGWYqpJKCOUpQ2DjNrvuSbB3YZxdmSeqkJ0KepSBB6sk8PO8sooyz1D5EDcfStO/pub)
 ### [Primary Care Providers](https://docs.google.com/document/d/e/2PACX-1vTYliwWtrg4hnICWdhyNp4uQrB-rwzjy-OebUnAppStIb_IdlfPDopWi6ZvjCjRzsYb35YYCAqBhBUz/pub)
 Including those that prescribe HRT.
-### [Other Healthcare Providers & Resources](https://docs.google.com/document/d/e/2PACX-1vRxlfOn46E916FKdloTDwy0WIj65TZeUYltTGhbmR5DJbuiIYtQsdsb71PgaDGJEOBYBNMjhHiewpJ2/pub)  
-Not seeing what you need here? Check out the [LGBTQ+ Healthcare Directory](https://lgbtqhealthcaredirectory.org/).
+### [Other Healthcare Providers & Resources](https://docs.google.com/document/d/e/2PACX-1vRxlfOn46E916FKdloTDwy0WIj65TZeUYltTGhbmR5DJbuiIYtQsdsb71PgaDGJEOBYBNMjhHiewpJ2/pub)    
+
+#### Not seeing what you need here? Check out the [LGBTQ+ Healthcare Directory](https://lgbtqhealthcaredirectory.org/).
 ---
 # Housing 
 #### Get help with paying rent, avoiding eviction, or finding a new living situation.
@@ -31,6 +32,8 @@ Not seeing what you need here? Check out the [LGBTQ+ Healthcare Directory](https
 ### [Financial Support for Accessing HRT/Gender Affirming Procedures](https://docs.google.com/document/d/e/2PACX-1vTUC9H3xoYhlqL2dmRW2KQ8E9Y-I4d_UAyUOJc0LqYI6yab6KifAXkHG-n6vlHezLjvMqgtb9tHVy0D/pub)
 ### [Other Local Groups and Resources](https://docs.google.com/document/d/e/2PACX-1vQHU9T3u_j05eoLuLdthIk-75kxswBGlGbf3oDTNfrwXTApL6O5WKQ3cZSguBUsSt4XZw8BZeOHMIdT/pub)
 - Get involved with other groups supporting queer people, human rights, and other important causes. 
+
+--- 
 
 ### As always, please never hesitate to reach out to the Collective with any questions.
 
