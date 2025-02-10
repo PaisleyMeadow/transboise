@@ -77,10 +77,16 @@ pluralizelisttitles = false
     weight = 4
 
 [[menu.main]]
+    name    = "Sign Up for Our Newsletter"
+    identifier = "menu.newsletter"
+    url     = "/newsletter/"
+    weight = 5
+
+[[menu.main]]
     name    = "Donate"
     identifier  = "menu.donate"
     url     = "/donate/"
-    weight = 5
+    weight = 6
 
 
 # banner
