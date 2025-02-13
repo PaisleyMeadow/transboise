@@ -62,7 +62,7 @@ Boise Trans Collective is run by a wonderful team consisting of several voluntee
 
 For privacy reasons, several of them do not want to be named in a public manner. 
 
-Volunteer coordination is done by Ezra Howell, while booking is managed by Peyton Shollenbarger and others. 
+Volunteer coordination is done by Ezra Howell, while booking is managed by Peyton Shollenbarger and Idris Aylin. 
 
 Our finances are managed by our Treasurer, Valerie.  
 
