@@ -49,14 +49,28 @@ You can also donate straight to the Collective [here](/donate/).
 
 Thanks for thinking of us!  
 
-Send us a message on [Instagram](https://www.instagram.com/transboise/) or email us at [boisetranscollective@gmail.com](mailto:boisetranscollective@gmail.com).
+Email us at our booking-specific address  [booking@transboise.com](mailto:booking@transboise.com).
 
 
 ### 5. When is the Collective's next event?
 
-Check out our events calendar or [Instagram](https://www.instagram.com/transboise/) to see what we have coming up next.
+Check out our events calendar to see what we have coming up next.
 
 ### 6. Who runs the Boise Trans Collective?
 
-Boise Trans Collective is run by a wonderful team consisting of Ezra Howell and Peyton Shollenbarger, and is supported by many other volunteers and community members. 
+Boise Trans Collective is run by a wonderful team consisting of several volunteers and community members. 
+
+For privacy reasons, several of them do not want to be named in a public manner. 
+
+Volunteer coordination is done by Ezra Howell, while booking is managed by Peyton Shollenbarger and others. 
+
+Our finances are managed by our Treasurer, Valerie.  
+
+This website and associated resources is managed by Paisley Davis, who you can reach out to via the BTC email, or [paisley1000@gmail.com](mailto:paisley1000@gmail.com).
+
+### 7. Is the Boise Trans Collective a non-profit?
+
+Yes! As of December 2024, we are a registered 501(3)(c) non-profit. 
+
+All donations made to BTC are tax-deductible. Please reach out via email if you need a proof of donation.
 

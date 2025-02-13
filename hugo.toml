@@ -96,7 +96,7 @@ pluralizelisttitles = false
 # about banner
 [params.testimonials]
     enable = true
-    title = "We work with musicians, artists, and those of all talents to create environments where you can express yourself freely, safely, and most of all: LOUDLY & PROUDLY!"
+    title = "The Boise Trans Collective is a registered 501(c)(3) non-profit with the purpose of supporting the transgender community in Boise, Idaho and the surrounding areas."
 
 
 [params]
@@ -108,7 +108,7 @@ pluralizelisttitles = false
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "pink"
 
-    copyright = "Copyright (c) 2024, Boise Trans Collective; all rights reserved."
+    copyright = "Copyright (c) 2025, Boise Trans Collective; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

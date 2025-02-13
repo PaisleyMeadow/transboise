@@ -6,7 +6,7 @@ keywords = ["resources", "hrt", "hormones", "doctors", "therapists", "dentists",
 
 # Healthcare
 #### Options to access gender-affirming care and other medical services from trans-friendly providers.
-### [Therapists and Psychologists](https://docs.google.com/document/d/e/2PACX-1vSgrCKOMZfKRaeCwTt0ECoJ_um26CNmIuxBotpGK8gXp4he2t4-1sU6EZSwDpjjwY4qMMIpiNfT_-8p/pub)
+### [Therapists & Psychologists](https://docs.google.com/document/d/e/2PACX-1vSgrCKOMZfKRaeCwTt0ECoJ_um26CNmIuxBotpGK8gXp4he2t4-1sU6EZSwDpjjwY4qMMIpiNfT_-8p/pub)
 ### [Psychiatrists](https://docs.google.com/document/d/e/2PACX-1vRannsdAydms-DbeEGWYqpJKCOUpQ2DjNrvuSbB3YZxdmSeqkJ0KepSBB6sk8PO8sooyz1D5EDcfStO/pub)
 ### [Primary Care Providers](https://docs.google.com/document/d/e/2PACX-1vTYliwWtrg4hnICWdhyNp4uQrB-rwzjy-OebUnAppStIb_IdlfPDopWi6ZvjCjRzsYb35YYCAqBhBUz/pub)
 Including those that prescribe HRT.
@@ -20,7 +20,7 @@ Including those that prescribe HRT.
 ---
 # General Goods & Services
 #### Local trans-friendly businesses and creators. 
-### [Hair Stylists](https://docs.google.com/document/d/e/2PACX-1vQka9ZcXb7bGClnrulHffr3BZuXZEXNVxYzBWfSOisWohSXjNWZ3GcG6HMoUWzsK1hD0cZ34TGaos6i/pub)
+### [Hair Stylists & Other Services](https://docs.google.com/document/d/e/2PACX-1vQka9ZcXb7bGClnrulHffr3BZuXZEXNVxYzBWfSOisWohSXjNWZ3GcG6HMoUWzsK1hD0cZ34TGaos6i/pub)
 ### [Art, Clothing, and Miscellaneous](https://docs.google.com/document/d/e/2PACX-1vRatHp5559-ImMEHErzGZnrHgpTsyprF7HalDcyCn9GpqnB1Ly9xUlN3z2wsNNcOmkMtp4IH9i8DVPY/pub)
 ---
 # General Information
