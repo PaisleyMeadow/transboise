@@ -66,7 +66,7 @@ Volunteer coordination is done by Ezra Howell, while booking is managed by Peyto
 
 Our finances are managed by our Treasurer, Valerie.  
 
-This website and associated resources is managed by Paisley Davis, who you can reach out to via the BTC email, or [paisley1000@gmail.com](mailto:paisley1000@gmail.com).
+This website and associated resources is managed by Paisley Davis, who you can reach out to via the BTC email, or [paisley@transboise.com](mailto:paisley@transboise.com).
 
 ### 7. Is the Boise Trans Collective a non-profit?
 
