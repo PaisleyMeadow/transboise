@@ -22,7 +22,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Instagram"
-    url = "https://www.instagram.com/transboise/"
+    url = "https://www.instagram.com/transboiseco/"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
