@@ -11,7 +11,7 @@ keywords = ["donate", "help", "venmo", "support", "support us", "how to support"
 * ##### Stocking gender-affirming supplies to give out such as chest tape, binders, make-up, bras, and injection supplies.
 * ##### Paying band, venue, and event space fees.
 
-### Please consider donating via [Venmo](https://venmo.com/u/transboise). Kofi coming soon!   
+### Please consider donating [here](https://secure.givelively.org/donate/boise-trans-collective/boise-trans-collective-collective-fund) or via [Venmo](https://venmo.com/u/transboise). 
 
 ---
 
