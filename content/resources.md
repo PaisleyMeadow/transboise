@@ -31,6 +31,8 @@ Including those that prescribe HRT/do gender-affirming care.
 # Gender-Affirming Care
 #### Info on stuff like name changes, HRT, and other local activism and resources.
 ### [How to Change Your Name in Idaho](https://drive.google.com/file/d/1JQBrkFSZm8YGYR0zOGvtcmQ7tHhI36u5/view)
+### [BTC's Resource Locker](https://www.instagram.com/p/DIiCpD4Rmia/?utm_source=ig_web_copy_link&igsh=MXF6a3RuYmViY2Vjeg==)
+- Open to all! DM or email us to make an appointment. Located in NW Boise.
 ### [Recommendations for Gender Affirming Clothing](https://docs.google.com/document/d/e/2PACX-1vQwV91GuPXF-cbVnecmFCwN2mvCqXqO265GDCK1NlD3YejyEZCanWr8c0Sxk6Gctk1ekfNaElzMUIaZ/pub)
 - Binders, tucking underwear, etc.
 ### [Learn More About HRT and Gender Affirming Procedures](https://docs.google.com/document/d/e/2PACX-1vTuX8xRCnnBaG-rTjz0_c1WDCokFTXTpCL2jmLtrKvdAn1MLTZLV7UC2ma6b6r_YDS-NrJj9eL47jL2/pub)
