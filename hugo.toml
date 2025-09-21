@@ -101,7 +101,8 @@ pluralizelisttitles = false
 
 [params]
 
-    defaultKeywords = ["boise", "idaho", "trans", "transgender", "queer", "lgbt", "nonbinary", "music", "booking", "boise trans collective", "collective", "gay", "transgender resources", "trans boise", "trans idaho", "boise trans", "idaho trans", "trans resources", "lgbt resources", "trans music", "concerts", "queer art", "queer resources", "hrt idaho", "trans in idaho", "boise queer community", "trans community"]
+    defaultKeywords = ["boise", "idaho", "trans", "transgender", "queer", "lgbt", "nonbinary", "music", "booking", "boise trans collective", "collective", "gay", "transgender resources", "trans boise", "trans idaho", "boise trans", "idaho trans", "trans resources", "lgbt resources", "trans music", "concerts", "queer art", "queer resources", "hrt idaho", "trans in idaho", "boise queer community", "trans community", "trans discord server", 
+    "boise transgender", "boise trans", "boise queer", "mutual aid", "queer housing", "trans boise co", "transboiseco", "meridian transgender", "meridian idaho", "queer"]
     defaultDescription = "Boise Trans Collective works to create safe space for queer and transgender people in the Boise, Idaho area."
     default_sharing_image = "img/logo.png"
 
