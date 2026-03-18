@@ -1,13 +1,17 @@
 /* Themed colors */
 :root {
-  --primary-accent: #c27baa;
-  --navbar-border-top: #934478;
-  --button-border: #af518f;
-  --link-focus: #a44c87;
-  --form-shadow: rgba(194, 123, 170, 0.6);
+  --primary-accent: #ED4C69;
+  --secondary-accent: rgba(245, 169, 184);
+  --navbar-border-top: #D9526A;
+  --button-border: #D9526A;
+  --link-focus: #D9526A;
+  --form-shadow: rgba(194, 123, 144, 0.6);
   --pagination-bg: #f2e4ed;
-  --link-hover-bg: #b25894;
-  --navbar-focus: #e2c1d7;
+  --link-hover-bg: #D9526A;
+  --navbar-focus: #e2c1ce;
+  /* F5A9B8 */
+  --dark-grey: #485257;
+  --light-grey: #64696C;
 }
 
 .clearfix:before,
@@ -243,7 +247,7 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
+  background: var(--light-grey);
   color: #eeeeee;
   padding: 10px 0;
 }
@@ -1170,8 +1174,8 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: var(--primary-accent);
-  opacity: 0.9;
+  background: var(--secondary-accent);
+  opacity: 0.6;
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
@@ -1741,7 +1745,7 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/tv-poke.jpeg') center center repeat;
+  background: url('../img/sky-banner.jpg') center center/100% repeat;
   padding: 50px 0;
   margin-bottom: 40px;
 }
@@ -2527,7 +2531,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #555555;
+  background: var(--light-grey);
   padding: 50px 0;
   color: #999999;
 }
@@ -2623,7 +2627,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: var(--primary-accent);
 }
 #copyright {
-  background: #333;
+  background: var(--dark-grey);
   color: #ccc;
   padding: 50px 0;
   font-size: 12px;
@@ -2696,10 +2700,10 @@ fieldset[disabled] .btn-template-primary.active {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #eeeeee;
-  border-color: var(--primary-accent);
+  border-color: var(--secondary-accent);
 }
 .nav-tabs {
-  border-bottom: 1px solid var(--primary-accent);
+  border-bottom: 1px solid var(--secondary-accent);
 }
 .nav-tabs > li {
   float: left;
@@ -2712,20 +2716,20 @@ fieldset[disabled] .btn-template-primary.active {
   border-radius: 0 0 0 0;
 }
 .nav-tabs > li > a:hover {
-  border-color: #eeeeee #eeeeee var(--primary-accent);
+  border-color: #eeeeee #eeeeee var(--secondary-accent);
 }
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #555555;
   background-color: #ffffff;
-  border: 1px solid var(--primary-accent);
+  border: 1px solid var(--secondary-accent);
   border-bottom-color: transparent;
   cursor: default;
 }
 .nav-tabs.nav-justified {
   width: 100%;
-  border-bottom: solid 1px var(--primary-accent);
+  border-bottom: solid 1px var(--secondary-accent);
   border-bottom: 0;
 }
 .nav-tabs.nav-justified > li {
@@ -2746,11 +2750,11 @@ fieldset[disabled] .btn-template-primary.active {
 .nav-tabs.nav-justified > .active > a,
 .nav-tabs.nav-justified > .active > a:hover,
 .nav-tabs.nav-justified > .active > a:focus {
-  border: 1px solid var(--primary-accent);
+  border: 1px solid var(--secondary-accent);
 }
 @media (min-width: 768px) {
   .nav-tabs.nav-justified > li > a {
-    border-bottom: 1px solid var(--primary-accent);
+    border-bottom: 1px solid var(--secondary-accent);
     border-radius: 0 0 0 0;
   }
   .nav-tabs.nav-justified > .active > a,
@@ -2772,7 +2776,7 @@ fieldset[disabled] .btn-template-primary.active {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #ffffff;
-  background-color: var(--primary-accent);
+  background-color: var(--secondary-accent);
 }
 .nav-stacked > li {
   float: none;
@@ -2783,7 +2787,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .nav-justified {
   width: 100%;
-  border-bottom: solid 1px var(--primary-accent);
+  border-bottom: solid 1px var(--secondary-accent);
 }
 .nav-justified > li {
   float: none;
@@ -2806,11 +2810,11 @@ fieldset[disabled] .btn-template-primary.active {
 .nav-tabs-justified > .active > a,
 .nav-tabs-justified > .active > a:hover,
 .nav-tabs-justified > .active > a:focus {
-  border: 1px solid var(--primary-accent);
+  border: 1px solid var(--secondary-accent);
 }
 @media (min-width: 768px) {
   .nav-tabs-justified > li > a {
-    border-bottom: 1px solid var(--primary-accent);
+    border-bottom: 1px solid var(--secondary-accent);
     border-radius: 0 0 0 0;
   }
   .nav-tabs-justified > .active > a,
@@ -3106,7 +3110,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: var(--primary-accent);
+  background-color: var(--secondary-accent);
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -3119,7 +3123,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: var(--primary-accent);
+  background-color: var(--secondary-accent);
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #888888;
@@ -3131,7 +3135,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: var(--primary-accent);
+  background-color: var(--secondary-accent);
   color: #ffffff;
 }
 @media (max-width: 767px) {
@@ -3140,13 +3144,13 @@ fieldset[disabled] .btn-template-primary.active {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: var(--primary-accent);
+    color: var(--secondary-accent);
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #ffffff;
-    background-color: var(--primary-accent);
+    background-color: var(--secondary-accent);
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,

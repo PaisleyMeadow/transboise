@@ -1,3 +1,7 @@
+:root {
+  --btc-pink: #F5A9B8; 
+}
+
 .box-image-text .image {
   min-height: 190px;
   max-height: 190px;
@@ -11,3 +15,7 @@
 .box-simple {
   min-height: 230px;
 }
+
+
+
+

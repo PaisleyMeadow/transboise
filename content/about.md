@@ -17,7 +17,7 @@ To create a safe space within Boise for the local trans and queer community thro
 
 All donations and proceeds are added to a collective fund that is available to any trans person within the community struggling to meet their needs, whether those be healthcare, housing, clothing, or anything else. 
 
-To get involved or for help and support, please reach out via [Instagram](https://www.instagram.com/transboise/) or by joining our [Discord server](https://discord.gg/gvbrMdhKXu).
+To get involved or for help and support, please reach out via [Instagram](https://www.instagram.com/transboise/), email, or by joining our [Discord server](https://discord.gg/gvbrMdhKXu).
 
 
 ### WE ARE HERE FOR YOU AND WE LOVE YOU!
@@ -49,8 +49,7 @@ You can also donate straight to the Collective [here](/donate/).
 
 Thanks for thinking of us!  
 
-Email us at our booking-specific address  [booking@transboise.com](mailto:booking@transboise.com).
-
+Unfortunately, we have pivoted to focusing on community events and are no longer booking shows.
 
 ### 5. When is the Collective's next event?
 
@@ -62,15 +61,15 @@ Boise Trans Collective is run by a wonderful team consisting of several voluntee
 
 For privacy reasons, several of them do not want to be named in a public manner. 
 
-Volunteer coordination is done by Ezra Howell, while booking is managed by Peyton Shollenbarger and Idris Aylin. 
+Community events are planned and organized by Paisley Davis and Idris Aylin.
 
 Our finances are managed by our Treasurer, Valerie.  
 
-This website and associated resources is managed by Paisley Davis, who you can reach out to via the BTC email, or [paisley@transboise.com](mailto:paisley@transboise.com).
+This website and associated resources is managed by Paisley, who you can reach out to via the BTC email, or [paisley@transboise.com](mailto:paisley@transboise.com).
 
 ### 7. Is the Boise Trans Collective a non-profit?
 
 Yes! As of December 2024, we are a registered 501(3)(c) non-profit. 
 
-All donations made to BTC are tax-deductible. Please reach out via email if you need a proof of donation.
+All donations made to BTC are tax-deductible. Please reach out via email if you need proof of donation.
 
