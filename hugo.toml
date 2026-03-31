@@ -110,7 +110,7 @@ pluralizelisttitles = false
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "pink"
 
-    copyright = "Copyright (c) 2025, Boise Trans Collective; all rights reserved."
+    copyright = "Copyright (c) 2026, Boise Trans Collective; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
