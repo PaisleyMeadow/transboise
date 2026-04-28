@@ -11,7 +11,6 @@ Reach out with any questions, or for requests that don't fit our existing forms.
 
 # Healthcare
 #### Options to access gender-affirming care and other medical services from trans-friendly providers.
-### [Test](/therapists/)
 ### [Therapists & Psychologists](/therapists/)
 ### [Psychiatrists](https://docs.google.com/document/d/e/2PACX-1vRannsdAydms-DbeEGWYqpJKCOUpQ2DjNrvuSbB3YZxdmSeqkJ0KepSBB6sk8PO8sooyz1D5EDcfStO/pub)
 ### [Primary Care Providers](https://docs.google.com/document/d/e/2PACX-1vTYliwWtrg4hnICWdhyNp4uQrB-rwzjy-OebUnAppStIb_IdlfPDopWi6ZvjCjRzsYb35YYCAqBhBUz/pub)
