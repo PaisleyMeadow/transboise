@@ -99,7 +99,7 @@ Community events are most-often planned and organized by Paisley Davis and Idris
 
 Our finances are managed by our Treasurer, Valerie.  
 
-This website and associated resources is managed by Paisley, who you can reach out to via the BTC email, or [paisley@transboise.com](mailto:paisley@transboise.com).
+This website and associated resources is managed by Paisley, who you can reach out to via the BTC email, or [paisley@transboise.org](mailto:paisley@transboise.org).
 
 ### 9. Is the Boise Trans Collective a non-profit?
 
