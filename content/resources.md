@@ -8,8 +8,11 @@ keywords = ["resources", "hrt", "hormones", "doctors", "therapists", "dentists",
 #### Request aid from the Collective.  
 Reach out with any questions, or for requests that don't fit our existing forms.  
 ### [Gender-Affirming Clothing Request Form](https://forms.gle/WLRnmNy5K84K4ZDCA)   
+Request the purchase of new gender-affirming clothing, such as binders and tucking underwear, to be ordered straight to your house (or a safer destination).  
 ### [Wear Haus Fund Request Form](https://forms.gle/xDmmRLU7SZwqiEh86)
-Request to use funds supplied by BTC and donations to purchase clothes and other items at the Wear Haus, a queer-owned secondhand clothing store in downtown Boise.
+Request to use the BTC-supplied fund to purchase second-hand clothing at the queer-owned clothing shop Wear Haus, located in downtown Boise.   
+### [HRT Reimbursement Form](https://docs.google.com/forms/d/e/1FAIpQLSfXivzQ32rI-Fv6qVzHSOmgSU-7Sf3z3Bi8CExWr6E4EWGqkw/viewform)  
+Submit a request to get reimbursed for HRT and related costs, or request financial aid if you cannot pay out-of-pocket.   
 
 # Healthcare
 #### Options to access gender-affirming care and other medical services from trans-friendly providers.
