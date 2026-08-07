@@ -7,6 +7,8 @@ keywords = ["resources", "hrt", "hormones", "doctors", "therapists", "dentists",
 # BTC Request Forms  
 #### Request aid from the Collective.  
 Reach out with any questions, or for requests that don't fit our existing forms.  
+### [Gender-Affirming Surgery Grant Application](https://www.jotform.com/form/262137755432054)
+Open from August 7th to September 13th 2026.  
 ### [Gender-Affirming Clothing Request Form](https://forms.gle/WLRnmNy5K84K4ZDCA)   
 Request the purchase of new gender-affirming clothing, such as binders and tucking underwear, to be ordered straight to your house (or a safer destination).  
 ### [Wear Haus Fund Request Form](https://forms.gle/xDmmRLU7SZwqiEh86)
