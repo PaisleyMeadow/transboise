@@ -7,14 +7,14 @@ keywords = ["resources", "hrt", "hormones", "doctors", "therapists", "dentists",
 # BTC Request Forms  
 #### Request aid from the Collective.  
 Reach out with any questions, or for requests that don't fit our existing forms.  
-### [[currently closed] Fall 2026 Gender-Affirming Surgery Grant Application](https://www.jotform.com/form/262137755432054)
-This grant was open from August 7th to September 27th 2026. Keep an eye on our website or socials to hear about the next cycle!
 ### [Gender-Affirming Clothing Request Form](https://forms.gle/WLRnmNy5K84K4ZDCA)   
 Request the purchase of new gender-affirming clothing, such as binders and tucking underwear, to be ordered straight to your house (or a safer destination).  
 ### [Wear Haus Fund Request Form](https://forms.gle/xDmmRLU7SZwqiEh86)
 Request to use the BTC-supplied fund to purchase second-hand clothing at the queer-owned clothing shop Wear Haus, located in downtown Boise.   
 ### [HRT Reimbursement Form](https://docs.google.com/forms/d/e/1FAIpQLSfXivzQ32rI-Fv6qVzHSOmgSU-7Sf3z3Bi8CExWr6E4EWGqkw/viewform)  
 Submit a request to get reimbursed for HRT and related costs, or request financial aid if you cannot pay out-of-pocket.   
+### [[currently closed] Fall 2026 Gender-Affirming Surgery Grant Application](https://www.jotform.com/form/262137755432054)
+This grant was open from August 7th to September 27th 2026. Keep an eye on our website or socials to hear about the next cycle!
 
 # Healthcare
 #### Options to access gender-affirming care and other medical services from trans-friendly providers.
