@@ -4,6 +4,11 @@ description = "Trans-friendly resources in the Treasure Valley area."
 keywords = ["resources", "hrt", "hormones", "doctors", "therapists", "dentists", "art", "housing", "rent", "support", "help", "need help", "surgery", "gender affirming care", "access gender affirming care", "trans healthcare", "trans healthcare in idaho", "reproductive healthcare", "general needs", "idaho", "trans in idaho", "trans surgery", "trans surgeons"]
 +++
 
+# Trans Secret Santa 2026
+#### Sign-up forms close December 4th.
+### [Gift Recipient Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLSciy3r0qS2oHVNEu06SlPstdEZehpOe1_OpiyWUyU05ELY0pQ/viewform?usp=dialog)   
+### [Gift Giver Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLSfOdNoQ621iqia5NrMiMcEPOXlb514SbWm-BBMsbLDELwVvbg/viewform?usp=dialog)  
+
 # BTC Request Forms  
 #### Request aid from the Collective.  
 Reach out with any questions, or for requests that don't fit our existing forms.  
